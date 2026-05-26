@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Jay 👋
 
-<!--
-**thejayvaghela/thejayvaghela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer at [AtliQ Technologies](https://atliq.com). Around 5 years writing software, last 3 mostly on GenAI — long enough to remember when "agentic" was just a typo.
 
-Here are some ideas to get you started:
+**What I work on**
+Production AI for places where "the model hallucinated" is not an acceptable post-mortem — multi-tenant payments systems, regulated enterprise data, real-time voice agents.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack I actually reach for**
+Python · TypeScript · FastAPI · Node.js · PostgreSQL · React Native · LangChain · LangGraph · LiveKit
+
+**About this profile**
+Most of my AI work is internal, but my React Native years live here — boilerplates, `react-native-app-starter`, `react-native-kiosk-view`, `react-native-awesome-camera`.
+
+**Reach me**
+[LinkedIn](https://www.linkedin.com/in/thejayvaghela) · `thejayvaghela@gmail.com`
